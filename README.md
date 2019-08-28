@@ -1,2 +1,2 @@
 # Hello-World
-Guess this is what a newbie does 
+I guess this is what a newbie does 
